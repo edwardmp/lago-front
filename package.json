@@ -104,7 +104,7 @@
     "@sentry/react": "7.72.0",
     "@sentry/tracing": "7.72.0",
     "apollo-link-timeout": "4.0.0",
-    "apollo-upload-client": "17.0.0",
+    "apollo-upload-client": "18.0.1",
     "apollo3-cache-persist": "0.14.1",
     "classnames": "2.3.2",
     "crypto-hash": "2.0.1",
